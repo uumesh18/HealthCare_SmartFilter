@@ -24,5 +24,10 @@ namespace HealthCare_SmartFilter
         {
             InitializeComponent();
         }
+
+        private void Grid_Loaded(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
